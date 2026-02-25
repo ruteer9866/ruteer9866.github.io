@@ -4,10 +4,11 @@ theme: minima
 
 # Project Pages용 (중요)
 url: "https://ruteer9866.github.io"
-baseurl: "/ruteer9866.github.io"
+baseurl: ""
 
 # 상단 메뉴
 header_pages:
+  - about.md
   - projects.md
   - publications.md
 
