@@ -13,13 +13,11 @@ title: Home
 
 # 전진형
 
-Seoul National University  
-Industrial Engineering  
-
-**Research Interests**
-- Operations Research
-- Reinforcement Learning
-- Graph Machine Learning
+<div>
+  <h1>전진형</h1>
+  <p>Seoul National University<br>
+     Industrial Engineering</p>
+</div>
 
 <a href="https://github.com/ruteer9866" target="_blank">
   GitHub
