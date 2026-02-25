@@ -6,8 +6,7 @@ layout: page
 
 
 
-title: About
-
+title: Projects
 
 
 ---
