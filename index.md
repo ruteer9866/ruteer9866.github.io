@@ -20,7 +20,7 @@ title: Home
 I am an undergraduate student in <a href="https://ie.snu.ac.kr/en/" target="_blank">
   Industrial Engineering at Seoul National University
 </a>
-, with research interests in Operations Research, Reinforcement Learning, and Graph Machine Learning.<br>
+with research interests in Operations Research, Reinforcement Learning, and Graph Machine Learning.<br>
 
 My work focuses on optimization under uncertainty, large-scale decision-making systems, and learning-based approaches to complex networked environments. I am particularly interested in bridging theoretical foundations with practical applications in supply chain systems, data-driven optimization, and AI-assisted decision support.<br>
 
