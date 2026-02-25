@@ -1,0 +1,43 @@
+---
+---
+
+@import "minima";
+
+/* ===== Header (top) ===== */
+.site-header {
+  background: #111827; /* 원하는 색으로 바꾸세요 */
+  border-top: none;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff;
+}
+
+.site-nav .page-link {
+  color: rgba(255,255,255,0.9);
+}
+
+.site-nav .page-link:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+/* 모바일 메뉴 아이콘(햄버거) 색 */
+.site-nav .menu-icon > svg path {
+  fill: rgba(255,255,255,0.9);
+}
+
+/* ===== Footer (bottom) ===== */
+.site-footer {
+  background: #0b1220; /* 원하는 색으로 바꾸세요 */
+  border-top: 1px solid rgba(255,255,255,0.12);
+  color: rgba(255,255,255,0.85);
+}
+
+.site-footer a {
+  color: rgba(255,255,255,0.9);
+}
+.site-footer a:hover {
+  color: #ffffff;
+}
