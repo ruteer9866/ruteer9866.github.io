@@ -12,7 +12,14 @@ title: Home
 <div>
 
 <div>
-  <h1>전진형</h1>
+  <h1 style="margin-bottom: 4px;">전진형</h1>
+  <div style="font-size: 1.1rem; color: #555; margin-bottom: 6px;">
+    Jinhyeong Chun
+  </div>
+  <div style="font-size: 0.95rem; color: #666;">
+    Department of Industrial Engineering<br>
+    Seoul National University
+  </div>
 </div>
 
 
