@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-서울대학교 산업공학과 재학.
+## Education
+- **Daejeon Science High School** (Mar 2017 – Feb 2020)
+- **Seoul National University** (Mar 2020 – Feb 2027)
 
-## 관심 분야
+## Interests
 - Operations Research
 - Reinforcement Learning
 - Graph Machine Learning
