@@ -13,13 +13,11 @@ title: Home
 
 <div>
   <h1>전진형</h1>
-  <p>Seoul National University<br>
-     Industrial Engineering</p>
 </div>
 
 <div>
 <p>
-I am an undergraduate student in <a href="https://ie.snu.ac.kr/" target="_blank">
+I am an undergraduate student in <a href="https://ie.snu.ac.kr/en/" target="_blank">
   Industrial Engineering at Seoul National University
 </a>
 , with research interests in Operations Research, Reinforcement Learning, and Graph Machine Learning.<br>
