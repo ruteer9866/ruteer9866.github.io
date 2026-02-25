@@ -5,7 +5,7 @@ title: Home
 
 <div style="display:flex; align-items:center; gap:30px;">
 
-<img src="{{ '/assets/images/profile.jpg' | relative_url }}" 
+<img src="{{ '/assets/images/prof1.jpg' | relative_url }}" 
      alt="Profile Photo" 
      width="220" 
      style="border-radius:10px;">
