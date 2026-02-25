@@ -1,45 +1,12 @@
 ---
-
-
-
 layout: page
-
-
-
 title: Projects
-
-
+permalink: /projects/
 ---
 
+Update 2026-02-25
 
-
-
-
-
-
-Update 2026.02.25
-
-
-
-
-
-
-
-Project List:
-
-
-
-\\- Operations Research
-
-
-
-\\- Reinforcement Learning
-
-
-
-\\- Graph Machine Learning
-
-
-
-
-
+## Project List
+- Operations Research
+- Reinforcement Learning
+- Graph Machine Learning
