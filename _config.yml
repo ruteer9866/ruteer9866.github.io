@@ -10,6 +10,5 @@ baseurl: ""
 header_pages:
   - about.md
   - projects.md
-  - cv.md
 
 # (선택) 블로그 기능은 꺼도/켜도 되는데, 홈페이지 중심이면 없어도 됩니다.
