@@ -12,14 +12,10 @@ title: Home
 
 <div>
 
-# 전진형  
-Seoul National University  
-Industrial Engineering  
-
-**Research Interests**
-- Operations Research
-- Reinforcement Learning
-- Graph Machine Learning
+전진형  
+- Seoul National University
+- Industrial Engineering
+- Email: jh@example.com
 
 </div>
 
