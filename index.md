@@ -1,22 +1,26 @@
 ---
-
 layout: page
-
 title: Home
-
 ---
 
+<div style="display:flex; align-items:center; gap:30px;">
 
+<img src="{{ '/assets/images/profile.jpg' | relative_url }}" 
+     alt="Profile Photo" 
+     width="220" 
+     style="border-radius:10px;">
 
-\# 전진형
+<div>
 
+# 전진형  
+Seoul National University  
+Industrial Engineering  
 
+**Research Interests**
+- Operations Research
+- Reinforcement Learning
+- Graph Machine Learning
 
-산업공학(OR/Optimization/RL/GNN) 관련 연구·프로젝트를 정리합니다.
+</div>
 
-
-
-\- Interests: Optimization, Supply Chain, Reinforcement Learning, Graph ML
-
-\- Currently: Research notes \& project archive
-
+</div>
