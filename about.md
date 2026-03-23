@@ -14,6 +14,9 @@ Currently, I am developing research-oriented projects that integrate optimizatio
 - **Daejeon Science High School** (Mar 2017 – Feb 2020)
 - **Seoul National University** (Mar 2020 – Feb 2027)
 
+## Teaching
+- **Operation Research 2** (Mar 2026 - Jul 2026, Undergraduate TA)
+
 ## Interests
 - Operations Research
 - Reinforcement Learning
